@@ -19,7 +19,7 @@
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
   }
   
-  .calculator span {
+  .calculator  span {
     -moz-user-select: none;
      user-select: none;
   }
